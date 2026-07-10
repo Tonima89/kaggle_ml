@@ -22,3 +22,4 @@ print("\nDataset er prothom 5 ti row:")
 print(df.head())
 print("\nDataset-er total (Row, Column) সংখ্যা:")
 print(df.shape)
+git add test.py
